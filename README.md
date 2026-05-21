@@ -1,1 +1,1 @@
-# pumpfun-bundler-usdc
+# Pumpfun Bundler For USDC pairs
